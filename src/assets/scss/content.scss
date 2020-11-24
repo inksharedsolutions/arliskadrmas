@@ -135,11 +135,11 @@
 
     .span-tagline{
         display: block;
-        color: #131e22;
+        color: #131e22 !important;
     }
 
     .author-content {
-        color: #ffffff;
+        color: #ffffff !important;
     }
 }
 
@@ -155,7 +155,7 @@
 .auth-name{
     font-size: 1.6em;
     font-weight: 900;
-    color: #fff;  
+    color: #fff !important;  
 }
 
 

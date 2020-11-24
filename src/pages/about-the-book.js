@@ -4,7 +4,7 @@ import Nav from '../components/nav'
 import Banner from '../components/non-front-banner'
 import BookInfo from '../components/book-info/book-info'
 import { DiscussionEmbed } from "disqus-react"
-import FrontBook from '../../static/books/book1.png'
+import FrontBook from '../../static/books/main_book.png'
 import SecondBook from '../../static/books/book2.png'
 
 const ATB = (props)=>{
@@ -35,8 +35,8 @@ const ATB = (props)=>{
 
                             <BookInfo
                                 data={{
-                                    title:`Stormie's Adventures`,
-                                    spanFirst: `Stormie's New Family`,
+                                    title:`A, B, C's of Hockey`,
+                                    spanFirst: ``,
                                     imgSrc: FrontBook,
                                     id:'the_gifted_one',
                                     content:

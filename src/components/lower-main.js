@@ -19,9 +19,9 @@ const LowerMain = ()=>{
                         </h1>
 
                         <p className="author-content">
-                        A Chemical Engineering graduate living in Wichita, KS, but born and raised in
+                        A Chemical Engineering garduate living in Wichita, KS, but bown and raised in
                         southwestern North Dakota. He learned to love hockey while in college and
-                        has a great passion for the game aŌer watching the FighƟng Sioux...
+                        has a great passion for the game after watching the Fighting Sioux.
                             
                             <Link to="/about-the-author"
                              className="link-read">

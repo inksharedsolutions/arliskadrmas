@@ -5,7 +5,6 @@ import Banner from '../components/non-front-banner'
 import BookInfo from '../components/book-info/book-info'
 import { DiscussionEmbed } from "disqus-react"
 import FrontBook from '../../static/books/main_book.png'
-import SecondBook from '../../static/books/book2.png'
 
 const ATB = (props)=>{
 
@@ -42,7 +41,7 @@ const ATB = (props)=>{
                                     content:
                                     `
                                     <p>
-                                        This is a story about Stormie’s secrets that she hasn’t revealed to anyone and that leads to a mystery that changes her life forever. Her secrets get revealed one at a time. Also, in this story, it also teaches life’s lessons.
+                                        It was exciting for us to develop this book by creating words and illustrations to go along with the letters, using hockey as a backdrop. In the making of this book, we have learned that you can accomplish anything that you put your mind to. You will never get anywhere or accomplish anything without at least trying and doing something you are passionate about. Let us all look for God’s blessing in whatever we do. 
                                     </p> 
                                     `,
 

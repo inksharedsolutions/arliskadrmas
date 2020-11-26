@@ -38,7 +38,7 @@ const ATB = (props)=>{
                             <p>
                             A Chemical Engineering graduate living in Wichita, KS, but born and raised in
                             southwestern North Dakota. He learned to love hockey while in college and
-                            has a great passion for the game after watching the Fighting Sioux. In reading
+                            has a great passion for the game aŌer watching the FighƟng Sioux. In reading
                             to his son Isaiah, he saw there was an opportunity for the A, B, C’s of Hockey.
                             He partnered with his lovely and talented wife to create this book, which was a
                             blessing and a lot of fun. 

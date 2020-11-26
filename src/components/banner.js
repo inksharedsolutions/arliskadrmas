@@ -1,6 +1,5 @@
 import React from 'react'
 import {Link} from 'gatsby'
-import  ImgBanner from '../../static/banner/Stormie.jpg'
 
 const Banner = ()=>{
     return (

@@ -149,6 +149,9 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    img{
+        width: 300px;
+    }
 }
 
 
@@ -357,7 +360,7 @@
 /*Bottom*/
 
 .parallax-bottom {
-    background: url("../../../static/banner/Stormie.jpg");
+    background: url("../../../static/banner/banner.jpeg");
     // background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;

@@ -12,7 +12,7 @@ $prm-font-size : 12px;
 
 
 .web-banner{
-    background: url("../../../static/banner/banner.jpeg");
+    background:linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)), url("../../../static/banner/non-front-banner.png");
     height: 400px;
     background-attachment: fixed;
     background-position: center;
@@ -23,14 +23,14 @@ $prm-font-size : 12px;
         letter-spacing: 0.67em;
         text-transform: uppercase;
         line-height: 2;
-        color: black;
+        color: white;
     }
 
     h1{
         font-size: 4em;
         font-weight: 900;
         text-transform: uppercase;
-        color: black !important;
+        color: white !important;
     }
     
 }

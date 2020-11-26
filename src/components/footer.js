@@ -58,7 +58,7 @@ const Footer = ()=>{
                             <li>
                                 <a 
                                     target="_blank"
-                                    href="https://www.goodreads.com/book/show/49511902-stormie-s-adventures">
+                                    href="https://www.goodreads.com/book/show/28078431-a-b-c-s-of-hockey?ac=1&from_search=true&qid=iAL6QmETgT&rank=1">
                                     <FontAwesomeIcon 
                                         className='font-awesome'
                                         icon={faGoodreads} />
@@ -79,7 +79,7 @@ const Footer = ()=>{
                                 <Link to="/about-the-author">About the Author</Link>
                             </li>
                             <li>
-                                <Link to="/about-the-book">Books</Link>
+                                <Link to="/about-the-book">About the Book</Link>
                             </li>
                             <li>
                                 <Link to="/contact">Contact</Link>

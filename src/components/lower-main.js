@@ -21,7 +21,7 @@ const LowerMain = ()=>{
                         <p className="author-content">
                         A Chemical Engineering graduate living in Wichita, KS, but born and raised in
                         southwestern North Dakota. He learned to love hockey while in college and
-                        has a great passion for the game aŌer watching the FighƟng Sioux.
+                        has a great passion for the game aŌer watching the FighƟng Sioux...
                             
                             <Link to="/about-the-author"
                              className="link-read">

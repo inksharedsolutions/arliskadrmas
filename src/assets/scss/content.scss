@@ -76,6 +76,9 @@
             padding: 2% 40px;
             border-radius: 21px;
         }
+        .content-wraps {
+            letter-spacing: 2px;
+        }
 
     }
 }
@@ -135,7 +138,7 @@
 
     .span-tagline{
         display: block;
-        color: #131e22 !important;
+        color: #000000 !important;
     }
 
     .author-content {
@@ -199,7 +202,7 @@
 
 .italic-tag{
     font-family: 'Fanwood Text', serif;
-    color: #ececec;
+    color: #ececec !important;
 }
 
 .misson-parent{
@@ -257,6 +260,10 @@
     padding: 20% 10%;
     height: 735px;
     // background: linear-gradient(to bottom, #000000 0%, #353535 100%);
+    letter-spacing: 2px;
+    h1{
+        color: #eeeeee !important;
+    }
 }
 
 .link-read{
